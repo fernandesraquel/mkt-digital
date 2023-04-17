@@ -1,1 +1,1 @@
-# mkt-digital
+# Repositório para a disciplina Marketing Digital.
